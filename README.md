@@ -1,3 +1,19 @@
+# TDD Naan Factory Exercise 
+
+This exercise is going to bring together lots of concepts.
+
+### Learning Outcomes
+
+Learning outcomes include:
+
+- git
+- github
+- functions
+- TDD
+- separation of concerns
+- DRY code
+- DOD
+
 ## Installing and running
 
 To run the naan factory do the following:
@@ -42,3 +58,6 @@ As a user, I can use the make_dough with water and flour to make dough.
 As a user, I can use the bake_dough with dough to get naan.
 
 #3
+As a user, I can user the run_factory with water and flour and get naan.
+```
+
